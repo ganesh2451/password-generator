@@ -51,7 +51,7 @@ h1 {
 
 .display-container {
     position: relative;
-    background-color: blue;
+    background-color:darkcyan;
     border-radius: 1rem;
     border-bottom: 0.35rem solid cyan;
     margin: 1rem 0;
@@ -93,7 +93,7 @@ h1 {
 
 .input-container{
     width:100%;
-    background-color: blue;
+    background-color:darkcyan;
     border-radius: 1rem;
     padding: 2rem;
     border-bottom: 0.35rem solid cyan;
